@@ -1,4 +1,4 @@
-## The purpose of this assignment is to cache the inverse of a matrix. 
+## The purpose of this assignment is to create 2 functions that cache the inverse of a matrix. 
 ## 1. makeCacheMatrix function
 ##    - set the value of the matrix
 ##    - get the value of the matrix
